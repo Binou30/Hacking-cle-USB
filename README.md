@@ -1,4 +1,6 @@
-Hacking Clé USB mode d'emplois:
+## Hacking Clé USB :
+
+Mode d'emploi:
 
 1. Copiez le dossier Hacking Clé USB (téléchargé en .zip) sur votre bureau (NE RIEN RENOMMER OU SUPPRIMER)
 2. Ouvrez TOUT le dossier sur un éditeur de code (ex : Visual Studio Code)
