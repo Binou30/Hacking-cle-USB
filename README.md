@@ -8,4 +8,4 @@ Hacking Clé USB mode d'emplois:
 ATTENTION : le développeur décline toute responsabilité en cas de perte de dossiers importants ou de bugs. Pensez à 
 faire une copie de votre clé USB avant d'exécuter le programme.
 
-Le dossier copié sur le bureau avec le contenu de la clé s'appelle : Dernière_Sauvegarde_USB 
+Le dossier copié sur le bureau avec le contenu de la clé s'appelle : Dernière_Sauvegarde_USB
