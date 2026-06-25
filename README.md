@@ -1,11 +1,13 @@
 ## Hacking Clé USB :
 
-Mode d'emploi:
+Ce petit projet fait à l'aide de l'IA, j'assume, vous permettera d' "hacker" une personne qui vous énerve ou avec qui vous voulez faire une blague. Pas d'inquiétude, tout le contenu des fichiers supprimés se trouve dans un dossier sur son bureau, mais attendez un peu avant de révéler la supercherie à votre victime!
 
-1. Copiez le dossier Hacking Clé USB (téléchargé en .zip) sur votre bureau (NE RIEN RENOMMER OU SUPPRIMER)
-2. Ouvrez TOUT le dossier sur un éditeur de code (ex : Visual Studio Code)
-3. Ouvrez le fichier Hacking Clé USB
-4. Exécutez-le --> branchez une clé USB et laissez la magie opérer!
+## Mode d'emploi :
+
+- Copiez le dossier Hacking Clé USB (téléchargé en .zip) sur votre bureau (NE RIEN RENOMMER OU SUPPRIMER)
+- ouvrez TOUT le dossier sur un éditeur de code (ex : Visual Studio Code)
+- Ouvrez le fichier Hacking Clé USB
+- Exécutez-le --> branchez une clé USB et laissez la magie opérer!
 
 ATTENTION : le développeur décline toute responsabilité en cas de perte de dossiers importants ou de bugs. Pensez à 
 faire une copie de votre clé USB avant d'exécuter le programme.
